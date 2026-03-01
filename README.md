@@ -55,4 +55,4 @@ AegisStream is designed as a modular distributed system:
 
 ## License
 
-TBD
+Apache-2.0 license
